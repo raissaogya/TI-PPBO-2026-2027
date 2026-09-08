@@ -2,11 +2,11 @@ import org.w3c.dom.ls.LSOutput;
 
 public class Helloworld {
     public static void main(String[] args){
-        System.out.println("Raissa Ogya");
-        System.out.println("Nama: ");
-        System.out.println("Budi");
-        System.out.println();
-        System.out.println("Ini baris baru");
+        //Progtam menampilkan biodata sederhana
+        System.out.println("Nama:Budi");
+        /* Baris dibawah ini
+            mencetak NIM mahasiswa*/
+        System.out.println("NIM:12345");
     }
 }
 
