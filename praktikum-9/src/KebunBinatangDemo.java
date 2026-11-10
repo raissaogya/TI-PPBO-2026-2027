@@ -5,6 +5,7 @@ public class KebunBinatangDemo {
             new Kucing("Milo"),
             new Anjing("Rex"),
             new Kucing("Oyen"),
+            new Bebek("maxi"),
         };
 
         for (Hewan h : daftarHewan) {
